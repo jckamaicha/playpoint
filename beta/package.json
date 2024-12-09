@@ -23,7 +23,7 @@
     "react-router-dom": "6.4.0",
     "reaviz": "13.1.8",
     "remixicon": "2.5.0",
-    "util": "0.12.4",
+    "util": "0.12.5",
     "web-vitals": "3.0.1"
   },
   "scripts": {

@@ -21,7 +21,7 @@
     "reactjs-calendar-heatmap": "0.2.3",
     "reaviz": "13.1.8",
     "remixicon": "2.5.0",
-    "yarn": "1.22.19"
+    "yarn": "1.22.22"
   },
   "devDependencies": {
     "@types/react": "18.0.20",
